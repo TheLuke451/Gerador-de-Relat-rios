@@ -1,0 +1,5 @@
+.venv
+relatorio_salarios.csv
+dados.csv
+__pycache__/
+dist
