@@ -76,7 +76,7 @@ Este projeto foi feito com fins de estudo e portfólio com foco em:
    * Geração de relatórios automatizados
    * Empacotamento com PyInstaller
 
-Autor: ** TheLuke451 **
+Autor: **TheLuke451**
 
 
 
