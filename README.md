@@ -42,16 +42,16 @@ Se estiver usando o .exe, basta executar.
 
 Você pode escolher entre:
     
-    - CSV
-    - XLSX (Excel)
+   * CSV
+   * XLSX (Excel)
 
 ### 3. Informe as colunas
 
 Digite quais colunas representam:
 
-    - Nome
-    - Salário
-    - Departamento
+   * Nome
+   * Salário
+   * Departamento
 
 ### 4. O relatório será gerado automaticamente
 
@@ -60,23 +60,23 @@ Ele aparecerá na mesma pasta, com o nome:
 
 ## 🔧 Tecnologias Utilizadas 
 
-    - Python
-    - Pandas
-    - Openpyxl
-    - Tkinter
-    - PyInstaller (Para gerar o executável)
+   * Python
+   * Pandas
+   * Openpyxl
+   * Tkinter
+   * PyInstaller (Para gerar o executável)
 
 ## 📚 Objetivo do projeto
 
 Este projeto foi feito com fins de estudo e portfólio com foco em:
     
-    - Manipulação de dados com pandas
-    - Boas práticas de organização de código
-    - Integração com Tkinter
-    - Geração de relatórios automatizados
-    - Empacotamento com PyInstaller
+   * Manipulação de dados com pandas
+   * Boas práticas de organização de código
+   * Integração com Tkinter
+   * Geração de relatórios automatizados
+   * Empacotamento com PyInstaller
 
-Autor: TheLuke451
+Autor: ** TheLuke451 **
 
 
 
