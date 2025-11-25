@@ -9,7 +9,7 @@ Ele automatiza tarefas como:
 * Calculo de Soma e Média Salarial
 * Identificação do Maior e Menor Salário
 * Contagem de Funcionários por Departamento
-* Criação de um relatório completo em Excel com várias abas organizadas
+* Criação de um relatório completo em Excel com três abas organizadas
 
 O objetivo é facilitar a análise de dados de RH ou financeiros de forma rápida e acessível, mesmo para quem não tem
 familiaridade com planilhas.
